@@ -1,0 +1,7 @@
+digraph MTBDD {
+Node0 [label="Var: 0"];
+Node1 [label="T: 5", shape=box];
+Node0 -> Node1 [label="0"];
+Node2 [label="T: 2", shape=box];
+Node0 -> Node2 [label="1"];
+}
